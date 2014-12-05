@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC81B7A6-0F72-4983-A50F-C26F9096094F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HeatFeast</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>84F7FEC5C4B9B0181BED8F97B2552A0AFC6B8FC4</key>
+		<string>http://coding.net/AngryPowman/Coeus2D</string>
+		<key>994DD70A905805CB457B9789D524FF85B10668C8</key>
+		<string>https://github.com/AngryPowman/HeatFeast</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HeatFeast.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>84F7FEC5C4B9B0181BED8F97B2552A0AFC6B8FC4</key>
+		<string>../../../..</string>
+		<key>994DD70A905805CB457B9789D524FF85B10668C8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AngryPowman/HeatFeast</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>994DD70A905805CB457B9789D524FF85B10668C8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>84F7FEC5C4B9B0181BED8F97B2552A0AFC6B8FC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>994DD70A905805CB457B9789D524FF85B10668C8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HeatFeast</string>
+		</dict>
+	</array>
+</dict>
+</plist>
